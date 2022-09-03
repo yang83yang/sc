@@ -1,5 +1,5 @@
 /*
-此文件为Node.js专用。其他用户请忽略
+此文件为Node.js专用。其他用户请忽略yy
  */
 //此处填写京东账号cookie。
 let CookieJDs = [
