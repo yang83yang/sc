@@ -3,7 +3,7 @@
  */
 //此处填写京东账号cookie。
 let CookieJDs = [
-  'pt_key=AAJl7wkSADBJuEjC1LLo3dT0G-sfJTNHP3aacbZgdZBnWQPS0Z9i2uxlr4cYmNSt4Jg0Z4dFnQc;pt_pin=masterd8483;',//账号一ck,例:pt_key=XXX;pt_pin=XXX;
+  'pt_key=AAJl_DYlADA9uXHcb1bJhJk8Aj3M6YWk7eXBViLe77dzWZ8gwPSs0okPgzQpWdqERLb_zt1qjl8;pt_pin=masterd8483;',//账号一ck,例:pt_key=XXX;pt_pin=XXX;
   '',//账号二ck,例:pt_key=XXX;pt_pin=XXX;如有更多,依次类推
   '',
 ]
